@@ -10854,7 +10854,7 @@ const Yr = si,
   },
   hm = {
     title: "최희원 ♥ 박진혁, 결혼합니다!",
-    description: "8월 25일 12시 라온제나 강남 8F 플로렌스홀",
+    description: "8월 25일 11시 라온제나 강남 8F 플로렌스홀",
     URL: "https://choihuiwon.github.io/wedding",
     REPO_NAME: "wedding",
   },
