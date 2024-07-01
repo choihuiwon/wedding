@@ -11029,37 +11029,33 @@ function Lm() {
           }),
           B("p", {
             children: [
-              "계절이 ",
               N("span", {
                 className: "emphasis",
-                children: "4번",
+                children: "4년 전",
               }),
-              " 돌아오는 동안",
+              " 벚꽃이 피어오르던 날",
             ],
           }),
           N("p", {
-            children: "함께 행복했던 기억이 차곡차곡 쌓였습니다.",
+            children: "행복과 시련이 영원하지 않을 것이라는 마음으로",
           }),
           N("span", {
             className: "linebreak",
           }),
           N("p", {
-            children: "서로에게 든든한 버팀목이 되어",
+            children: "서로에게 귀감이 되기로 약속하며",
           }),
           N("p", {
-            children: "힘들 때마다 큰 위로가",
+            children: "서로에게 귀감이 되기로 약속하며",
           }),
           N("p", {
-            children: "되어주리라는 믿음으로",
+            children: "이제 부부로서 첫걸음을 내딛는 저희를",
           }),
           N("p", {
-            children: "평생을 약속했습니다.",
+            children: "함께 지켜봐 주시고 격려해 주신다면",
           }),
           N("p", {
-            children: "저희의 새로운 시작의 날에",
-          }),
-          N("p", {
-            children: "축하와 온기로 함께해 주세요.",
+            children: "더없는 기쁨으로 간직하겠습니다.",
           }),
         ],
       }),
@@ -13806,7 +13802,7 @@ function r0() {
                 onClick: e,
                 children: "choihuiwon",
               }),
-              ". Designed by hyerin. Powered by",
+              ". Designed by huiwon. Powered by",
               " ",
               N("a", {
                 href: "https://pages.github.com/",
